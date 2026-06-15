@@ -32,15 +32,38 @@ The dataset contains medical diagnostic measurements used to predict diabetes.
 
 Target Variable:
 Outcome
-0 → Non-Diabetic
-1 → Diabetic
+0 → Non-Diabetic, 1 → Diabetic
 
 
 ## 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
+
+## 📈 Machine Learning Workflow
+1. Data Collection
+2. Data Preprocessing
+3.Exploratory Data Analysis
+4. Feature Selection
+5. Model Training
+6. Model Evaluation
+7. Prediction and Results
+
+## 💡 Key Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- Data Analysis and Visualization
+- Machine Learning Model Development
+- Data Preprocessing Techniques
+- Model Evaluation and Interpretation
+- Healthcare Data Analytics
+
+## 🤝 Contributing
+Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Sampatti Borse
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
