@@ -68,7 +68,7 @@ Sampatti Borse
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
 <img width="927" height="364" alt="Screenshot 2026-06-15 194650" src="https://github.com/user-attachments/assets/75ea9456-10eb-411a-b3c4-e1b6d2fb82c2" />
-___________________________________________________________________________________________________________________________________________________________________
 
-<img width="756" height="340" alt="Screenshot 2026-06-15 194736" src="https://github.com/user-attachments/assets/3c4fca59-4495-4d6a-8352-5fe539482b53" />
+<img width="726" height="209" alt="Screenshot 2026-06-15 194815" src="https://github.com/user-attachments/assets/6d472266-5386-46bf-981f-c94f70d8338c" />
+
 
