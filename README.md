@@ -1,6 +1,5 @@
 # 🩺 Diabetes Prediction System
-
-- A Machine Learning-powered healthcare application that predicts the likelihood of diabetes based on patient medical information. This project demonstrates the complete data science workflow, including data preprocessing, exploratory data analysis, model training, evaluation, and prediction.
+A Machine Learning-powered healthcare application that predicts the likelihood of diabetes based on patient medical information. This project demonstrates the complete data science workflow, including data preprocessing, exploratory data analysis, model training, evaluation, and prediction.
 
 ## 📌 Project Overview
 
