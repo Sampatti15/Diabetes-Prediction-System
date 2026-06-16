@@ -1,0 +1,5 @@
+Following are the dependencies required for this project:
+
+1. numpy
+2. pandas
+3. scikit-learn
